@@ -1,11 +1,11 @@
-# Nome do projeto
+# Candy Apocalipse 666
 
-Descreva aqui o que é o projeto e indique o link da Wiki para saber mais sobre o projeto
+Jogo sobre doces similar à Candy Crush
 
 # Nome compledo dos integrantes do projeto:
 
-* Nome 1
-* Nome 2
+* Barbara Song Brito
+* Caroline dos Santos Ruiz
 * Nome 3
 * Nome 4
 
