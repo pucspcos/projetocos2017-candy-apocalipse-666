@@ -6,8 +6,6 @@ Jogo sobre doces similar à Candy Crush
 
 * Barbara Song Brito
 * Caroline dos Santos Ruiz
-* Nome 3
-* Nome 4
 
 # Imagens do jogo:
 
