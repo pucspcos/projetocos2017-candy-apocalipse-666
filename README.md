@@ -1,6 +1,6 @@
 # Candy Apocalipse 666
 
-Jogo sobre doces similar à Candy Crush
+Dê os doces ao palhaço!!!
 
 # Nome compledo dos integrantes do projeto:
 
@@ -9,7 +9,8 @@ Jogo sobre doces similar à Candy Crush
 
 # Imagens do jogo:
 
-Inserir imagens do jogo.
+![](https://github.com/pucspcos/projetocos2017-candy-apocalipse-666/blob/master/ITOSO.png)
+
 
 # Link no Itch IO para o download dos executáveis do jogo:
 https://babychan.itch.io/candy-apoclipse-666
