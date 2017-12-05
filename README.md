@@ -19,7 +19,7 @@ Dê os doces ao palhaço!!! Você precisa coletar os doces e evitar os objetos e
 ![](https://github.com/pucspcos/projetocos2017-candy-apocalipse-666/blob/master/Ativo%2012.png?raw=true)
 Referêcia: IT- A COISA (FANART)
 
-# Referência: McDonnalds (fanart) e doces (arte por Caroline Ruiz)
+Referência: McDonnalds (fanart) e doces (arte por Caroline Ruiz)
 
 # Link no Itch IO para o download dos executáveis do jogo:
 
