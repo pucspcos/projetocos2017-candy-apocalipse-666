@@ -4,7 +4,7 @@ Dê os doces ao palhaço!!! Você precisa coletar os doces e evitar os objetos e
 
 # Nome compledo dos integrantes do projeto:
 
-* Barbara Song Brito
+* Barbara Fernandes Brito
 * Caroline dos Santos Ruiz
 
 # Imagens do jogo:
